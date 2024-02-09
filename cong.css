@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  background-image: url(aqua-d9b59c89.png);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+img{
+position: absolute;
+left: 45%;
+top: 30px;
+}
+  
+
+.cong{
+  text-align: center;
+  margin-top: 400px;
+}
+h2{
+  color: white;
+}
+h3{
+margin: 30px;
+  color: white;
+}
+p{
+  margin: 10px;
+  
+}
